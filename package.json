@@ -1,6 +1,6 @@
 {
   "name": "@alexkmerz/tiny",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Smallest framework i can make",
   "main": "index.js",
   "type": "module",
