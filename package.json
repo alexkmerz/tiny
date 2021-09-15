@@ -1,12 +1,16 @@
 {
   "name": "@alexkmerz/tiny",
   "version": "1.0.1",
-  "description": "",
+  "description": "Smallest framework i can make",
   "main": "index.js",
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Alex Merz",
-  "license": "ISC"
+  "license": "ISC",
+  "keywords": [
+    "framework",
+    "tiny"
+  ]
 }
