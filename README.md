@@ -16,7 +16,7 @@ import { app, listen } from '@alexkmerz/tiny'
 app.middleware('world', async (req, res) => {
   const forbidden = Math.random() < 0.5
   if (forbidden) {
-    res.writeHead(404)
+    res.writeHead(403)
     return res.end('Forbidden')
   }
 })
